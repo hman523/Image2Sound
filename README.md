@@ -12,3 +12,7 @@ Then it is converted to a DAT file containing more specific information about th
 Lastly the DAT file is converted into a .wav file using the CLI program SOX. 
 
 The result is an audio file based on the image.  
+
+## Example
+The example image is a picture I took in Corsica.  Github would not allow a file over 25MB so I cut the song down from 3 minutes to 1.5 minutes using Audacity.  
+Notice the repetition at the start.  This is caused by the blue sky causing the same note to be played.
